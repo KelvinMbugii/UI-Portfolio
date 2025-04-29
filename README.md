@@ -21,3 +21,5 @@ This is a **personal portfolio website** designed for a **UI Designer, Web Devel
 
 **Developers**
 1. Kelvin Weru                 kc1078900@gmail.com
+2. Myra Nyakiamo               myranyakiamo11@gmail.com
+3. 
