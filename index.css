@@ -255,18 +255,6 @@
     background: #fff;
   }
 
-  .pageimg{
-    flex: 1;
-    .page {
-    padding: 6rem 9%;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    gap: 4rem;
-    background: #fff;
-  }
-
   .pageimg {
     flex: 1;
     max-width: 500px;
@@ -324,9 +312,6 @@
       grid-template-columns: 1fr;
     }
   }
-    max-width: 300px;
-  }
-
   .pageimg img{
     width: 100%;
     height: auto;
@@ -334,7 +319,7 @@
     border-radius: 10px;
   }
   .skills-box {
-    display: grid;
+    display: flex;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
     margin-bottom: 4rem;
@@ -403,7 +388,6 @@
       box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
       display: none;
     }
-
     .home {
       flex-direction: column;
       text-align: center;
